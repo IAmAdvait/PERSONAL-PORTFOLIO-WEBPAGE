@@ -30,4 +30,4 @@ Styling throughout the site uses CSS variables for colors, ensuring a consistent
 
 Overall, this code forms an excellent foundation for a personal portfolio. It is clean, responsive, and easy to expand, whether you want to add animations, new projects, or connect it to a back end in the future.
 
-*OUTPUT*: 
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/9d6028fc-a05b-48eb-8137-fa1aafd9743b)
